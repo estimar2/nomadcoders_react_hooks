@@ -6,7 +6,7 @@ Collection of sexy React Hooks ready to install width NPM
 <br>
 code : https://github.com/nomadcoders/nooks
 
-|    #    |            장의명            |
+|    #    |            강의명            |
 | :-----: | :--------------------------: |
 | **# 0** |       **INTRODUCTION**       |
 |  #0.1   |        필독, 공지사항        |
