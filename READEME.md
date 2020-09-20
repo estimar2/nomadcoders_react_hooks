@@ -31,3 +31,23 @@ code : https://github.com/nomadcoders/nooks
 |  #2.9   |         Conclusions          |
 |  #2.10  |      Publishing to NPM       |
 |  #2.11  |      What to learn next      |
+
+---
+
+<br>
+
+## Each hook has its own pacakge
+
+<br>
+
+| Hook            | Description                                               |  Documentation  |  NPM Page  |
+| :-------------- | :-------------------------------------------------------- | :-------------: | :--------: |
+| useTitle        | Update your document's title.                             | [Documentation] | [NPM Page] |
+| useConfirmation | Prompt a confirmation before executing a function.        | [Documentation] | [NPM Page] |
+| useHover        | Detect a hover on any React Element.                      | [Documentation] | [NPM Page] |
+| useBeforeLeave  | Execute a function when the mouse leaves the document.    | [Documentation] | [NPM Page] |
+| useNetwork      | Listen when the uwer goes online or offline.              | [Documentation] | [NPM Page] |
+| useScroll       | Get X/Y coordinates of current position of the scroll.    | [Documentation] | [NPM Page] |
+| usePreventLeave | Prompt the user ofr confirmation before leaving the page. | [Documentation] | [NPM Page] |
+| useFadeIn       | Fade in any element.                                      | [Documentation] | [NPM Page] |
+| useFullscreen   | Make any element go Fullscreen                            | [Documentation] | [NPM Page] |
